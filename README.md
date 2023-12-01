@@ -5,8 +5,8 @@
 | 23560018 | Nguyễn Gia Hy | |
 | 23560020 | Huỳnh Tấn Khang | |
 
-
-Usage
-npm init -y 
-npm install express body-parser ejs
-npm start
+Tải về xem file package.json có giống phiên bản nodejs khom 
+#Usage
+## >> npm init -y 
+## >> npm install express body-parser ejs
+## >> npm start
